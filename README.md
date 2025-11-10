@@ -1,3 +1,3 @@
 # Empty Repo
 
-Used as an example remote repo for git tutorial
+Create a three tier functional application using Java as backend, Javascript for frontend and MongoDB for Database.
