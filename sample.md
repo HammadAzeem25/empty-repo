@@ -1,0 +1,1 @@
+Build a modern e-commerce platform that allows customers to browse products, add items to cart, make purchases, and manage their orders. Include an admin panel for managing products, orders, and customers.
